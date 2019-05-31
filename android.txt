@@ -1,0 +1,3 @@
+title=Operaciones
+author=Equipo:RALJ
+orientation=portrait
