@@ -5,7 +5,7 @@
   Nota: Crear la carpeta Operaciones.
   
     --\Sdcar
-      ---\kyvy
+      ---\kivy
         ----\Operaciones
     	    main.py
     	    android.text
